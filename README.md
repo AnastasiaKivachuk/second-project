@@ -1,0 +1,1 @@
+![picture](scr/img/03.png)
